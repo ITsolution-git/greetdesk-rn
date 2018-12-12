@@ -1,0 +1,5 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">y0G-28fyraqHiHKh73j-YlHCRSp8VkQJDDAog</string>
+
+    <string name="app_name">greetdesk</string>
+</resources>
